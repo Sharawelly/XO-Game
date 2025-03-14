@@ -1,0 +1,10 @@
+# ninja log v5
+7	577	7636883698462748	CMakeFiles/untitled26.dir/tic-tac.cpp.obj	e04f4f3520e991e2
+16	601	7636883698713056	CMakeFiles/untitled26.dir/GameManger.cpp.obj	ee26553531d2e93b
+0	890	7636883701597287	CMakeFiles/untitled26.dir/Player.cpp.obj	9516ba811aad36d8
+25	1656	7636883709271804	CMakeFiles/untitled26.dir/Pyramid.cpp.obj	81b006f4be844ae9
+31	898	7636883701667402	CMakeFiles/untitled26.dir/X_O_Board.cpp.obj	3bb1fe2c11f42835
+38	932	7636883702013803	CMakeFiles/untitled26.dir/RandomPlayer.cpp.obj	2871c0be0b02fb30
+20	1611	7636883708815948	CMakeFiles/untitled26.dir/Four_in_a_row.cpp.obj	ed1cfd336ec53901
+12	1674	7636883709452309	CMakeFiles/untitled26.dir/X_O_5.cpp.obj	531b365dcbe0a8ee
+1674	1805	7636883710718993	untitled26.exe	9882ccd4f7331594

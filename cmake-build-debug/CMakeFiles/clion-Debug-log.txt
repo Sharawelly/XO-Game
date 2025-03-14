@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.3.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\Second Year 1st semester\CS213OOP\A3_Final_S5_S6_20220325_20220056_20220376\EltaslemaEla5era\A3_Final_S5_S6_20220325_20220056_20220376\tic_tac_toe" -B "D:\Second Year 1st semester\CS213OOP\A3_Final_S5_S6_20220325_20220056_20220376\EltaslemaEla5era\A3_Final_S5_S6_20220325_20220056_20220376\tic_tac_toe\cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/Second Year 1st semester/CS213OOP/A3_Final_S5_S6_20220325_20220056_20220376/EltaslemaEla5era/A3_Final_S5_S6_20220325_20220056_20220376/tic_tac_toe/cmake-build-debug
